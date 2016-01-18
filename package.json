@@ -1,0 +1,12 @@
+{
+  "name": "method",
+  "version": "1.0.0",
+  "description": "method",
+  "main": "method.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roderickObrist/method.git"
+  },
+  "author": "Roderick Obrist",
+  "license": "UNLICENSED"
+}
