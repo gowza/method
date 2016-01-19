@@ -1,12 +1,17 @@
 {
   "name": "method",
   "version": "1.0.0",
-  "description": "method",
+  "description": "",
   "main": "method.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/roderickObrist/method.git"
   },
   "author": "Roderick Obrist",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/roderickObrist/method/issues"
+  },
+  "homepage": "https://github.com/roderickObrist/method#readme"
 }
